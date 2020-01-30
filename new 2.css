@@ -1,0 +1,11 @@
+div {text-align: center;
+   background-color: lightgrey;
+   width: 570px;
+   border: 15px solid red;/*bordure de 15px rouge*/
+   margin: auto;
+}
+lou {text-decoration: underline;}
+body   {font-size: 28px;
+background-image: url(https://media.giphy.com/media/B0uJ6d5OXb50k/source.gif);
+background-size: 690px 600px;
+}
